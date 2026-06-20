@@ -35,4 +35,4 @@ This project builds an end-to-end Machine Learning pipeline to predict marketing
 4. **Deployment**: Developed an interactive Streamlit UI to forecast success metrics.
 
 ## Author
-Jules
+SELVASIVA
