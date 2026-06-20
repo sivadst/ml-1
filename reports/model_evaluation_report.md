@@ -3,13 +3,13 @@
 ## Regression Models (Target: Revenue)
 | Model | RMSE | R2 Score |
 |-------|------|----------|
-| Linear Regression | 264837.9218 | 0.6943 |
-| Decision Tree Regressor | 360584.6113 | 0.4334 |
-| Random Forest Regressor | 257545.5088 | 0.7109 |
+| Linear Regression | 26045.6459 | 0.6656 |
+| Decision Tree Regressor | 40781.4692 | 0.1802 |
+| Random Forest Regressor | 28857.8063 | 0.5895 |
 
 ## Classification Models (Target: Profit_Flag)
 | Model | Accuracy | Precision | Recall | F1 Score |
 |-------|----------|-----------|--------|----------|
-| Logistic Regression | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
-| Decision Tree Classifier | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
-| Random Forest Classifier | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
+| Logistic Regression | 0.9500 | 0.9693 | 0.9753 | 0.9723 |
+| Decision Tree Classifier | 0.9111 | 0.9679 | 0.9321 | 0.9497 |
+| Random Forest Classifier | 0.9333 | 0.9360 | 0.9938 | 0.9641 |
